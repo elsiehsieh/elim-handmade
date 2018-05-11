@@ -101,10 +101,5 @@ section {
     .description ul li:first-child {
         font-size: 16px;
     }
-    .img-container img {
-        /* -webkit-transform: rotate(90deg);
-        -ms-transform: rotate(90deg);
-        -moz--transform: rotate(90deg);
-        transform: rotate(90deg); */
-    }
+ 
 }
